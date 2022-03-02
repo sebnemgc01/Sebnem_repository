@@ -1,1 +1,1 @@
-# Sebnem_repository
+# Sebnem_repository for training
